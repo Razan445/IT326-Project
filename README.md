@@ -7,7 +7,7 @@ In this project, we work on the Titanic dataset to predict whether a passenger s
 We chose the Titanic dataset because it is a real historical event with clear and easy-to-understand data. It has different types of attributes (personal, social, and financial) that can affect whether a passenger survived, which makes it a good dataset to practice both classification and clustering on. It is also a clean and commonly used dataset, so we can focus more on applying the techniques instead of spending too much time cleaning the data.
 
 ## Team Members
-- Reema Najr Qablan
+- Reema Nijr Bin Qublan
 - Rahaf Adel Hobani
 - Leen Abdullah Al-Thunayan
 - Norah Mohammed Al-Omar
